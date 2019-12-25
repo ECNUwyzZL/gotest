@@ -1,0 +1,4 @@
+# github.com/sanity-io/litter v1.2.0
+github.com/sanity-io/litter
+# k8s.io/klog v1.0.0
+k8s.io/klog
